@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <router-link :to="{name: 'home'}" class="navbar-brand"><i class="fa fa-graduation-cap" aria-hidden="true"></i> SMK
                 Askhabul Kahfi 2</router-link>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
